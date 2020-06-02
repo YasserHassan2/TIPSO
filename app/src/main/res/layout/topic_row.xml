@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    app:cardCornerRadius="6dp"
+    android:layout_margin="3dp"
+    android:elevation="5dp"
+    android:layout_height="@dimen/_50sdp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:id="@+id/topic_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="pubg kill ulitmate"
+            android:layout_margin="@dimen/_6sdp"
+            android:fontFamily="sans-serif-condensed"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_16sdp"
+            android:textAllCaps="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            ></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Read More"
+            android:layout_alignParentRight="true"
+            android:layout_margin="6dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="@dimen/_8sdp"
+            android:paddingBottom="6dp"
+            android:layout_alignParentBottom="true"></TextView>
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
