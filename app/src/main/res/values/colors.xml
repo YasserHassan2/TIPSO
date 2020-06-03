@@ -3,7 +3,7 @@
     <color name="colorPrimary">#6f0765</color>
     <color name="colorPrimaryDark">#4c0045</color>
     <color name="colorAccent">#D81B60</color>
-
+    <color name="light_purple">#f0e3ff</color>
 
     <color name="btn_brown">#db733a</color>
     <color name="alpha_total">#AA000000</color>

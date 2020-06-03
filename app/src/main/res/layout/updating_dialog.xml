@@ -38,7 +38,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="@dimen/_14sdp"
-                android:text="Geting Tips and Tricks..."
+                android:text="Geting Latest Tips and Tricks..."
                 android:fontFamily="sans-serif-condensed"
                 android:layout_margin="15dp"
                 android:gravity="center"

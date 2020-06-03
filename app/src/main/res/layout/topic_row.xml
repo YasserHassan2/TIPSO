@@ -21,7 +21,7 @@
             android:fontFamily="sans-serif-condensed"
             android:textColor="@color/black"
             android:textSize="@dimen/_16sdp"
-            android:textAllCaps="true"
+            android:textAllCaps="false"
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
             ></TextView>
