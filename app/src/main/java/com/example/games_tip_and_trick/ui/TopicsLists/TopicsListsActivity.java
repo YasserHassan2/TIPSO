@@ -64,7 +64,7 @@ public class TopicsListsActivity extends AppCompatActivity implements LoaderMana
 
 
             } else {
-                Toast.makeText(this, "No Data", Toast.LENGTH_SHORT).show();
+
             }
 
         }
